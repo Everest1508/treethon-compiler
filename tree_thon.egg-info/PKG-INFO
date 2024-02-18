@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: tree-thon
+Version: 0.1
+Summary: TreeThon Language Compiler
+Home-page: https://github.com/everest1508/treethon-compiler
+Author: ['Ritesh Mahale', 'Shreyash Mehshram']
+Author-email: ritesh@example.com
+License: MIT
+Keywords: tree-thon compiler language
+Classifier: Development Status :: 3 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Software Development :: Compilers
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+
+A Python library for compiling TreeThon language code.
