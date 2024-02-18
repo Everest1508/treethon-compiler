@@ -5,7 +5,7 @@ setup(
     version='0.1',
     description='TreeThon Language Compiler',
     long_description='A Python library for compiling TreeThon language code.',
-    author=['Ritesh Mahale', 'Shreyash Mehshram'],
+    author='Ritesh Mahale',
     author_email='ritesh@example.com',
     url='https://github.com/everest1508/treethon-compiler',
     license='MIT',

@@ -1,3 +1,4 @@
+LICENCE
 README.md
 setup.py
 TreeThon/__init__.py
