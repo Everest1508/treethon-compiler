@@ -49,7 +49,8 @@ main.child = child1
 main.child = child3
 child1.child = child2
 main.child = child3
-child3.child = child6```
+child3.child = child6
+```
 
 
 This code defines a hierarchical structure with the "main" node as the root, having two children ("child1" and "child3"), and further children branching off from them. When compiled, this code will produce the corresponding JSON representation.
